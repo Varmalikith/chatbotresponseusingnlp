@@ -96,9 +96,10 @@ chatbotresponseusingnlp/
 
 ---
 
-## 📄 Project Report
+## 📄 Project Html page
 
-[View Full Project Report](./NLP_Chatbot_Project_Report.pdf)
+https://subtle-dodol-b200be.netlify.app/
+
 
 ---
 
