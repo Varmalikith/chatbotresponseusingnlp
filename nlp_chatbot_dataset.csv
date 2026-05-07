@@ -1,0 +1,121 @@
+query,intent
+hello there,greeting
+hi how are you,greeting
+good morning,greeting
+hey what is up,greeting
+greetings to you,greeting
+good evening,greeting
+welcome to the chat,greeting
+hi there I need help,greeting
+hello can you assist me,greeting
+hey good afternoon,greeting
+where is my order,order_status
+track my package please,order_status
+what is the status of my order ORD-5678,order_status
+has my shipment been dispatched,order_status
+when will my order arrive,order_status
+I want to track my delivery,order_status
+can you update me on my package,order_status
+my order ORD-1234 has not arrived yet,order_status
+where is my package right now,order_status
+please check my shipment status,order_status
+I want to return this product,return
+how do I return a damaged item,return
+I received a defective product I need to exchange it,return
+can I send back this item,return
+I need a replacement for my order,return
+my product is broken I want to return it,return
+process a return for order ORD-9988,return
+I want to exchange this for a different size,return
+how do I initiate a return,return
+I got the wrong item I want to return it,return
+I need a refund for my order,refund
+how do I get my money back,refund
+please reimburse me for the cancelled order,refund
+I was charged but never received the product,refund
+refund my payment immediately,refund
+my money was deducted twice please refund,refund
+I want to claim a refund for a defective item,refund
+when will my refund be processed,refund
+I need reimbursement for ORD-7762,refund
+I returned the item please process my refund,refund
+I want to cancel my order,cancel
+please cancel my subscription,cancel
+how do I stop my order from being shipped,cancel
+cancel order ORD-3344 immediately,cancel
+I no longer need this item please cancel,cancel
+can I cancel before it ships,cancel
+I changed my mind please cancel the order,cancel
+please stop my monthly subscription,cancel
+how do I cancel my premium plan,cancel
+I want to cancel and get a refund,cancel
+my payment failed,payment_issue
+I was charged twice for the same order,payment_issue
+there is a billing error on my account,payment_issue
+my transaction was declined,payment_issue
+I see a duplicate charge on my card,payment_issue
+payment not going through please help,payment_issue
+my card was charged but order was not placed,payment_issue
+I received an unexpected charge,payment_issue
+my bank shows a deduction but no order confirmed,payment_issue
+there is a wrong amount charged to my account,payment_issue
+what payment methods do you accept,payment_info
+can I pay with PayPal,payment_info
+do you accept credit card,payment_info
+is UPI payment supported,payment_info
+can I use a debit card to pay,payment_info
+do you accept cash on delivery,payment_info
+is there an EMI option available,payment_info
+how can I pay for my order,payment_info
+is net banking supported for payments,payment_info
+can I use a prepaid card for purchase,payment_info
+what colors does this product come in,product_info
+is this laptop available in black,product_info
+what is the warranty on this phone,product_info
+is this jacket waterproof,product_info
+what are the specifications of this tablet,product_info
+do you have size medium in stock,product_info
+what are the features of this headphone,product_info
+is this product available in red color,product_info
+what is the screen size of this phone,product_info
+does this bag come with a warranty,product_info
+how long does delivery take,shipping_info
+do you offer free shipping,shipping_info
+what are the shipping options available,shipping_info
+is express delivery available in my city,shipping_info
+how many days for standard delivery,shipping_info
+do you ship internationally,shipping_info
+what is the cost of express shipping,shipping_info
+how long does it take to deliver to Hyderabad,shipping_info
+is same day delivery available,shipping_info
+can I get overnight shipping,shipping_info
+I forgot my password,account_issue
+I cannot log into my account,account_issue
+please help me reset my password,account_issue
+I am unable to access my profile,account_issue
+my account is locked,account_issue
+I cannot sign in to my account,account_issue
+how do I update my email address,account_issue
+my login is not working,account_issue
+I need to recover my account,account_issue
+my account has been deactivated,account_issue
+this service is absolutely terrible,complaint
+I am very disappointed with my order,complaint
+worst experience I have ever had,complaint
+this is completely unacceptable,complaint
+I am frustrated with the delay,complaint
+the quality of this product is very poor,complaint
+your customer service is bad,complaint
+I am angry about this situation,complaint
+this has been a nightmare experience,complaint
+I am very upset with the service I received,complaint
+I love this product it is amazing,compliment
+your service is excellent thank you,compliment
+this is the best purchase I have made,compliment
+I am very happy with the delivery,compliment
+fantastic experience with your support team,compliment
+the product is wonderful I am satisfied,compliment
+thank you for the quick resolution,compliment
+I am really impressed with your service,compliment
+this was a perfect experience from start to finish,compliment
+awesome product and great customer care,compliment
